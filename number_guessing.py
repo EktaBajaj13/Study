@@ -32,4 +32,4 @@ if f == 0 :
     print('\nTotal Number of Guesses : ',counter)
 else :
     print('The predicted number is :', gn, '\nBetter Luck Next Time!')
-
+ec = input('Press any key to exit ..... ')
